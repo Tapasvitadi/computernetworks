@@ -31,25 +31,15 @@ int main(){
             count = 0;
 
         }
-    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    OUTPUT
-        Enter the string: 10101111
-01111110 10101111 01111110
-
-    
+    }   
 
     string2[j] = '\0';
     printf("%s %s %s",flag,string2,flag);
     return 0;
 
 }
+
+
+ OUTPUT
+        Enter the string: 10101111
+01111110 10101111 01111110
